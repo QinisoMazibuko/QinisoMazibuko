@@ -12,11 +12,11 @@
 
 ## What I Do
 
-I write backend and platform stuff. Primarily working with cloud infrastructure, orchestration, and automation tools that get the job done.
+I build backend and platform 'stuff'. Primarily working on writing software, cloud infrastructure, orchestration, and automation tools and processes that get the job done.
 
 ### Currently Building
 
-- **[Arbita.ai](https://arbita.ai)** Legal-tech AI project for SA firms
+- **Legal-tech AI project for SA firms
 - **AI-powered developer tools** Terraform agents, code reviewers, automation pipelines
 - Experimenting with **generative models** and **local-first dev environments**
 
@@ -25,8 +25,7 @@ I write backend and platform stuff. Primarily working with cloud infrastructure,
 ```
 ✓ Clean infrastructure design
 ✓ Making complex systems behave
-✓ Automating anything repetitive
-✓ Learning how AI can make engineering smoother
+✓ Building systems that make Engineers work better
 ```
 
 ---

@@ -16,7 +16,7 @@ I build software and manage platform 'stuff'. Primarily working on writing softw
 ### Currently Building
 
 - **Legal-tech AI project for SA firms
-- **AI-powered developer tools** Terraform agents, code reviewers, automation pipelines
+- **AI-powered developer tools** Terraform agents, code reviewers,and automation pipelines
 - Experimenting with **generative models** and **local-first dev environments**
 
 ### What I Enjoy

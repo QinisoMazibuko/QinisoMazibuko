@@ -64,6 +64,6 @@ I build software and manage platform 'stuff'. Primarily working on writing softw
   
   I don't update this profile often but feel free to look around.
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+  ![Profile Views]()
 
 </div>

@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Backend](https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge)
+  ![Full Stack](https://img.shields.io/badge/Full-Stack-Developer-blue?style=for-the-badge)
   ![Platform](https://img.shields.io/badge/Platform-Engineering-orange?style=for-the-badge)
   ![AI](https://img.shields.io/badge/AI-Tools-green?style=for-the-badge)
 

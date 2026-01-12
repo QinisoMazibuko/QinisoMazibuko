@@ -64,6 +64,5 @@ I build software and manage cloud platform 'stuff'. Primarily working on writing
   
   I don't update this profile often but feel free to look around.
   
-  ![Profile Views]
 
 </div>

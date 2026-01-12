@@ -11,7 +11,7 @@
 
 ## What I Do
 
-I build software and manage platform 'stuff'. Primarily working on writing software, cloud infrastructure, orchestration & automation tools that get the job done.
+I build software and manage cloud platform 'stuff'. Primarily working on writing software, cloud infrastructure, orchestration & automation tools that get the job done.
 
 ### Currently Building
 
